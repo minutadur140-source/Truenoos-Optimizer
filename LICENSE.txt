@@ -1,0 +1,16 @@
+© 2025 Cristian Alberto Durán. Todos los derechos reservados.
+
+Truenoos Optimizer y TruenoBot son desarrollos técnicos originales creados por Cristian Alberto Durán, con sede en Libertador General San Martín, Jujuy, Argentina. Esta suite incluye scripting avanzado, automatización reversible, menús interactivos, logging técnico, branding visual y documentación modular.
+
+Queda prohibida la reproducción, modificación, distribución o uso comercial no autorizado de cualquier parte del código, diseño visual, documentación o identidad técnica contenida en esta suite.
+
+El uso de Truenoos Optimizer está permitido únicamente para fines personales, educativos o técnicos no comerciales, siempre que se mantenga la integridad del autor y se cite la fuente original.
+
+Marca técnica registrada: Truenoos Optimizer™ · TruenoBot™
+
+Este software incluye componentes visuales y funcionales desarrollados con asistencia de Copilot AI.
+
+Para consultas, colaboraciones o licencias profesionales:
+GitHub: https://github.com/Truenoos  
+LinkedIn: https://www.linkedin.com/in/cristian-duran  
+XDA Developers: https://forum.xda-developers.com
